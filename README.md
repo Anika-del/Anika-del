@@ -1,30 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anika Patel</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **Book Store**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-del&label=Profile%20views&color=0e75b6&style=flat" alt="anika-del" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anika-del" alt="anika-del" /></a> </p>
 
 - 🌱 I’m currently learning **Microservices and Spring Boot**
 
-- 👯 I’m looking to collaborate on **CBSE Board site**
-
-- 🤝 I’m looking for help with **Laybuild**
-
-- 👨‍💻 All of my projects are available at [https://anika-portfoli.netlify.app/](https://anika-portfoli.netlify.app/)
-
-- 📝 I regularly write articles on [https://leetcode.com/u/Anikaleet/](https://leetcode.com/u/Anikaleet/)
-
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **JAVA Hibernate Microservices Spring Boot JD Reactjs**
 
 - 📫 How to reach me **anipatel474@gmail.com**
 
 - 📄 Know about my experiences [https://anikaresume.netlify.app/](https://anikaresume.netlify.app/)
 
-- ⚡ Fun fact **I keep smile all time on my face.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anikapatel8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikapatel8/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:16670178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16670178" height="30" width="40" /></a>
+<a href="https://instagram.com/software_engineer_anika_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="software_engineer_anika_patel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@anikapatel3863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anikapatel3863" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cool_tub_35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cool_tub_35" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anipatel474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anipatel474" height="30" width="40" /></a>
