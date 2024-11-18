@@ -1,9 +1,7 @@
 <h1 align="center" color="pink">Hi 👋, I'm Anika Patel</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-del&label=Profile%20views&color=0e75b6&style=flat" alt="anika-del" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anika-del" alt="anika-del" /></a> </p>
 
 - 🌱 I’m currently learning **Microservices and Spring Boot**
 
