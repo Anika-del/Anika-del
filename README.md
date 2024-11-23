@@ -1,5 +1,5 @@
 <h1 align="center" color="pink">Hi 👋, I'm Anika Patel</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A'm a FullStack developer</h3>
 
 
 
