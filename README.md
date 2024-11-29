@@ -1,4 +1,4 @@
-<h1 align="center" color="pink" >Hi 👋, I'm Anika Patel</h1>
+<h1 align="center" color="ciyan" >Hi 👋, I'm Anika Patel</h1>
 <h3 align="center">A'm a Java FullStack developer</h3>
 
 
