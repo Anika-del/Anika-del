@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Microservices and Spring Boot**
+- 🌱 I’m currently learning **Microservices and Spring Boot** 
 
 - 💬 Ask me about **JAVA Hibernate Microservices Spring Boot Oracle MySQL JavaScript Reactjs**
 
