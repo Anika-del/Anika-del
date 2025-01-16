@@ -1,6 +1,6 @@
 <h1 align="center" color="red" > Hi 👋, I'm Anika Patel</h1>     
 <h3 align="center">A'm a Java FullStack developer</h3>
- 
+  
 
   
 - 🌱 I’m currently learning **Microservices and Spring Boot** 
