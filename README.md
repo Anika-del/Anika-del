@@ -6,7 +6,7 @@
 - 💬 Ask me about **JAVA Hibernate Microservices Spring Boot Oracle MySQL JavaScript Reactjs**    
 
 - 📫 How to reach me **anipatel474@gmail.com**
-
+ 
 - 📄 Know about my experiences [https://anikaresume.netlify.app/](https://anikaresume.netlify.app/)
 - I'm working on Stock Photo App, Stock Photo App + QnA Bot + Recipe Generator Project: 
 Spring Boot + Spring AI + React project
